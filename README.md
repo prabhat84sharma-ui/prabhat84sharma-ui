@@ -159,6 +159,44 @@ Experienced **Data Engineer** with **3+ years** of hands-on experience designing
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 FinTech Fraud Detection Engine</h3>
+      <p align="center">
+        <a href="https://github.com/prabhat84sharma-ui/pyspark-fintech-fraud-engine">
+          <img src="https://img.shields.io/badge/Repo-pyspark--fintech--fraud--engine-FF3E00?style=flat-square&logo=github" alt="Repository" />
+        </a>
+      </p>
+      <p>Distributed real-time and batch fraud scoring lakehouse with <strong>PySpark</strong>, <strong>Delta Lake</strong>, and <strong>Spark MLlib</strong>.</p>
+      <ul>
+        <li>Multi-horizon rolling velocity windows (5m, 1h, 24h)</li>
+        <li>Haversine geodesic distance & impossible travel velocity detection</li>
+        <li>Spark MLlib pipeline (GBT / Random Forest) & heuristic rule engine</li>
+        <li>Delta Lake ACID MERGE, Quarantine routing & Z-Order clustering</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/prabhat84sharma-ui/pyspark-fintech-fraud-engine"><strong>Explore Project →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" colspan="2">
+      <h3 align="center">🛒 Clickstream Customer Journey Lakehouse</h3>
+      <p align="center">
+        <a href="https://github.com/prabhat84sharma-ui/pyspark-clickstream-customer-journey">
+          <img src="https://img.shields.io/badge/Repo-pyspark--clickstream--customer--journey-00B4D8?style=flat-square&logo=github" alt="Repository" />
+        </a>
+      </p>
+      <p>Enterprise e-commerce telemetry Lakehouse with <strong>PySpark</strong> sessionization, multi-touch attribution, and Customer 360 feature marts.</p>
+      <ul>
+        <li>30-minute inactivity timeout sessionization with PySpark windows</li>
+        <li>Multi-Touch Attribution: First-Touch, Last-Touch, Linear & Time-Decay</li>
+        <li>RFM segmentation, category affinity & churn risk scoring</li>
+        <li>Partitioned Delta tables with Z-Ordering and 11 advanced SQL views</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/prabhat84sharma-ui/pyspark-clickstream-customer-journey"><strong>Explore Project →</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
